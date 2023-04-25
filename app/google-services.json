@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146747423857",
+    "project_id": "kayitolma-aba83",
+    "storage_bucket": "kayitolma-aba83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146747423857:android:dcac3528b88e2f52c8afd0",
+        "android_client_info": {
+          "package_name": "com.example.bosproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146747423857-15q061nbhq2f0ek1o0u7bpmsjdf589io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7x7gx7TBAfBWXEfDX7A20OUrBkqVYF0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146747423857-15q061nbhq2f0ek1o0u7bpmsjdf589io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -2,7 +2,9 @@
 
 Proje Sistem Analizi II dersi vizesi için yapılıp public olarak yüklenmiştir.
 
-Projenin temel amacı insanların malzeme seçmesi ve malzemeye uygun yapabileceği yemegi ekrana getiren uygulama olmasıdır içerisinde database vardır giriş ve kaydolma kısımları da mevcut çalışıyordur extradan koddaki eksikleri ve hataları detaylı bir şekilde youtube'de açıkladım isteyen izleyebilir teşekkür ederim.           
+Projenin temel amacı insanların malzeme seçmesi ve malzemeye uygun yapabileceği yemegi ekrana getiren uygulama olmasıdır içerisinde database vardır giriş ve kaydolma kısımları da mevcut çalışıyordur extradan koddaki eksikleri ve hataları detaylı bir şekilde youtube'de açıkladım isteyen izleyebilir teşekkür ederim.    
+Video linki: https://youtu.be/b_kkqWu-3yU
+
 ![anaEkran](https://user-images.githubusercontent.com/95114297/234303704-f9ae8b12-d0e8-4a91-9059-a0be6cd16473.jpeg)
 ![kayitOl](https://user-images.githubusercontent.com/95114297/234303777-73e03e5b-8caa-49ac-a0b2-bece02c7f049.jpeg)
 ![DataBase](https://user-images.githubusercontent.com/95114297/234303784-a6526bb8-25b5-4065-a6fe-a9f90ca0ab93.jpeg)
